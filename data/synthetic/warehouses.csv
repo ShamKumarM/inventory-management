@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+WH001,Chennai Central Warehouse,Chennai,Tamil Nadu,100000
+WH002,Bengaluru Distribution Center,Bengaluru,Karnataka,75000
+WH003,Hyderabad Distribution Center,Hyderabad,Telangana,75000

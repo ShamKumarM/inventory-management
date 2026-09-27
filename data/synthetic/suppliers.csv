@@ -1,0 +1,31 @@
+supplier_id,supplier_name,city,state,contact_email,contact_phone,lead_time_days,minimum_order_quantity,reliability_score
+SUP0001,"Choudhury, Bakshi and Maharaj Foods",Bengaluru,Karnataka,udantdewan@chaudry.com,+911338908386,2,200,0.81
+SUP0002,Sen PLC Foods,Hyderabad,Telangana,abeer26@mall-dugal.com,01161559407,13,50,0.91
+SUP0003,"Dash, Radhakrishnan and Brar Foods",Madurai,Tamil Nadu,janaki93@boase.com,+913164752553,3,500,0.76
+SUP0004,"Loke, Bora and Garg Foods",Bengaluru,Karnataka,nihalshere@madan-kanda.com,+913056413953,5,100,0.87
+SUP0005,"Tata, Randhawa and Shanker Foods",Chennai,Tamil Nadu,alkadewan@yohannan.org,09653287101,10,100,0.92
+SUP0006,Dutta Ltd Foods,Madurai,Tamil Nadu,ybhatt@sidhu-wadhwa.com,0184514627,8,100,0.86
+SUP0007,Lall PLC Foods,Pune,Maharashtra,yashicacherian@misra.com,02880957015,14,50,0.93
+SUP0008,Khatri-Bhardwaj Foods,Hyderabad,Telangana,farhanchada@sunder.com,+917824896383,13,500,0.83
+SUP0009,"Muni, Rastogi and Prakash Foods",Hyderabad,Telangana,cvarughese@kota.com,00983930103,5,200,0.77
+SUP0010,Balay LLC Foods,Kochi,Kerala,varkeywazir@sunder-kala.net,+919973763116,3,200,0.95
+SUP0011,Sampath-Roy Foods,Trichy,Tamil Nadu,rbhagat@chaudhari.com,+913338726247,6,50,0.93
+SUP0012,Borra Group Foods,Madurai,Tamil Nadu,bedialexander@khalsa.biz,07360260647,3,500,0.77
+SUP0013,Sampath-Sur Foods,Pune,Maharashtra,ranveerminhas@bhardwaj.net,+915009788208,12,200,0.89
+SUP0014,Grewal Inc Foods,Bengaluru,Karnataka,keernetra@koshy.org,+919169985435,2,100,0.94
+SUP0015,Lanka Group Foods,Bengaluru,Karnataka,charitashankar@bora-andra.info,9118384251,5,50,0.84
+SUP0016,Pingle LLC Foods,Coimbatore,Tamil Nadu,rakshamittal@wadhwa.com,+914118244935,12,200,0.79
+SUP0017,Lalla PLC Foods,Delhi,Delhi,dkrishnamurthy@sampath.com,+915242786801,5,200,0.92
+SUP0018,Dixit PLC Foods,Bengaluru,Karnataka,pinglemanbir@datta-barman.com,00533158692,11,100,0.88
+SUP0019,Gaba and Sons Foods,Mumbai,Maharashtra,lbakshi@natarajan.com,+911607337543,4,500,0.84
+SUP0020,Bajwa Ltd Foods,Madurai,Tamil Nadu,mohininarasimhan@boase-mallick.com,8685014294,5,200,0.95
+SUP0021,Chopra PLC Foods,Chennai,Tamil Nadu,upai@sarin-vaidya.com,09340608835,5,50,0.94
+SUP0022,Boase-Narayanan Foods,Kochi,Kerala,jeet48@rege-narain.biz,4823662994,6,50,0.8
+SUP0023,Acharya-Modi Foods,Trichy,Tamil Nadu,shivansh69@nagy.info,3872148951,13,200,0.8
+SUP0024,Mukherjee and Sons Foods,Coimbatore,Tamil Nadu,mananbakshi@konda.org,+917693676320,8,500,0.78
+SUP0025,Sandal and Sons Foods,Hyderabad,Telangana,zarnashetty@krish.info,+917889579868,5,200,0.93
+SUP0026,Dutt-Soman Foods,Kochi,Kerala,wlad@malhotra.info,3471434558,11,500,0.84
+SUP0027,Devi and Sons Foods,Hyderabad,Telangana,leeladua@kala.biz,08760366909,10,500,0.77
+SUP0028,Sood-Ahuja Foods,Chennai,Tamil Nadu,chanchal66@kannan.com,07065627298,3,100,0.9
+SUP0029,Ramesh PLC Foods,Kochi,Kerala,chackopriya@shenoy.com,06537556464,11,50,0.84
+SUP0030,Singhal Inc Foods,Trichy,Tamil Nadu,pallaudarsh@biswas.com,+910923271937,9,200,0.98
